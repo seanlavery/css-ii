@@ -4,13 +4,33 @@ p{
 	color:red;
 }
 
+.funp {
+	color:blue;
+}
+
 img{
 	height:200px;
 	width: 300px;
 }
 
+.lowerimg { 
+	height:400px;
+	width:600px;
+
+}
+
+.byline {
+	font-size: 12px;
+	text-transform:uppercase; 
+
+}
 ul{
 	list-style-type: square;
+}
+
+#listtitle { 
+	background-color: blue
+
 }
 
 h1{
